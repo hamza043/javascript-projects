@@ -18,16 +18,27 @@ console.log("Hellow World");
 // let lineBreak = alert('Welocme to JS Land....\nHappy Coding');
 // console.log(lineBreak);
 
-function displayAlerts() {
-    setTimeout(function() {
-        alert("Welcome to JS Land");
-    }, 1000);
+// function displayAlerts() {
+//     setTimeout(function() {
+//         alert("Welcome to JS Land");
+//     }, 1000);
 
-    setTimeout(function() {
-        alert("Prevent this page from creating additional dialogs.");
-    }, 2000);
-}
-displayAlerts();
+//     setTimeout(function() {
+//         alert("Prevent this page from creating additional dialogs.");
+//     }, 2000);
+// }
+// displayAlerts();
+
+// let age = 14;
+// alert("I am " + age + " years old");
+
+// let customerName = "John Doe";
+// let TShirt = 3;
+// let storeName = "XYZ Clothing Store";
+// let message = customerName + " ordered " + TShirt + " T-Shirt(s) on " + storeName + ".";
+
+// document.write(message);
+
 
 // console.log(userName);
 
